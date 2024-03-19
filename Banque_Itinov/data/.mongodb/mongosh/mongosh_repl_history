@@ -1,0 +1,27 @@
+db.mycollection.find()
+use Val
+db.mycollection.find()
+db.mycollection.insertOne({x:"oups"})
+db.mycollection.find()
+db.mycollection.insertOne({x: "heehe"})
+db.mycollection.find()
+db.mycollection.show()
+use Val
+show dbs 
+db.mycollection.find()
+show dbs 
+use admin
+db.Mycollection.find()
+show dbs
+use Val
+db.MyCollection.find()
+use Val
+show dbs 
+db.MyCollection.find()
+db.MyCollection.insertOne({x: "hehe"})
+db.MyCollection.insertOne({x: hehe})
+db.MyCollection.find()
+db.MyCollection.show()
+ls
+use Val
+show dbs
